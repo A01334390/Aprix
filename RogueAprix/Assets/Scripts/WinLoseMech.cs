@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 /*WinLose Mechanic
  * Handles the player crossing the spawn point, meaning the player completed one lap.
- * Known Bugs: When the player passes through the collider, one or more lifes are lost.
+ * Known Bugs: When the player passes through the collider, one or more laps are lost.
  * Known Bugs: The sound might keep playing even after restarting.
  * Possible improvements: as seen at the known bugs section.
  * */
