@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1B0D7233-5996-EACE-9261-C9447BA7D48E}") = "RogueAprix", "Assembly-CSharp.csproj", "{34B95D22-DC80-5B78-0389-71ACD90BA671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B95D22-DC80-5B78-0389-71ACD90BA671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B95D22-DC80-5B78-0389-71ACD90BA671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B95D22-DC80-5B78-0389-71ACD90BA671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B95D22-DC80-5B78-0389-71ACD90BA671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
