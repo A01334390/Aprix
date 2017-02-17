@@ -17,6 +17,7 @@ public class WinLoseMech : MonoBehaviour {
 	public GUIStyle style; //Style for the textbox, can be changed on the inspector
 	public Image image; //Image for victory.
 	public AudioClip victory; //Music Track when winning.
+	private bool isColliding=true;
 
 	void start(){
 		style = new GUIStyle (); //Creates a new instance of style
@@ -40,8 +41,12 @@ public class WinLoseMech : MonoBehaviour {
 	/// </summary>
 	/// <param name="col">Col.</param>
 	void OnTriggerEnter(Collider col){
-		if(col.tag=="Player"){
-			StartCoroutine (WeGotIt ());
+		if(isColliding){
+			isColliding = false;
+			if(col.tag=="Player"){
+					StartCoroutine (WeGotIt ());
+			}
+			StartCoroutine (isAbleAgain());
 		}
 	}
 	/// <summary>
@@ -55,9 +60,15 @@ public class WinLoseMech : MonoBehaviour {
 	/// </summary>
 	/// <returns>The got it.</returns>
 	IEnumerator WeGotIt(){
-		yield return new WaitForSeconds(1);
+		yield return new WaitForSeconds(0.2f);
 		player.GetComponent<TimerLevel> ().timer += 5;
 		laps--;
+
+	}
+
+	IEnumerator isAbleAgain(){
+		yield return new WaitForSeconds(5);
+		isColliding = true;
 
 	}
 }

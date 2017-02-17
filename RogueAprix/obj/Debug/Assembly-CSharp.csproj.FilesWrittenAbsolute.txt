@@ -19,3 +19,24 @@
 /Users/a01334390/RogueAprix/Temp/bin/Debug/Assembly-CSharp.dll
 /Users/a01334390/RogueAprix/obj/Debug/Assembly-CSharp.dll
 /Users/a01334390/RogueAprix/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/obj/Debug/Assembly-CSharp.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/UnityEngine.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/UnityEditor.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/Mono.Cecil.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/Unity.DataContract.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/a01334390/Dropbox/Escuela/ITC/Cuarto Semestre/Proyecto de desarrollo de videojuegos/Aprix/RogueAprix/Temp/bin/Debug/Mono.Cecil.Mdb.dll
